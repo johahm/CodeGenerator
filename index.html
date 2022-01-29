@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodeGenerator</title> <link rel="icon" href="llave.png">
+    <link href="estilos.css" rel="stylesheet" type="text/css">
+    
+</head>
+<body>
+
+    <h1>Encriptador de Texto</h1>
+
+    <h4>SOLO RECONOCE LETRAS MINUSCULAS Y SIN ACENTO</h4>
+
+    <textarea id="mensaje" cols="40" rows="7" name="Mensaje" placeholder="Escribe el texto a encriptar" ></textarea>
+    <br />
+    <button id="encriptar" onclick="encriptar();" >Encriptar</button>
+    <button id="desencriptar" onclick="desencriptar();">Desencriptar</button>
+    <button id="pegar" onclick="pegar();" >Pegar</button>
+    <br /><br />
+
+    <h2>TEXTO ENCRIPTADO</h2>
+    <textarea id="resultado" cols="40" rows="7" name="Resultado" placeholder="Resultado..." ></textarea>
+    <br />
+    <button id="copiar" onclick="copiar();">Copiar</button>
+    <br /> <br />
+
+<script src="script.js"></script>
+</body>
+<footer><strong> 2022 <i>Alura Challenge, Johana Herrera Mayorga</i></strong> - Todos Los Derechos Reservados.</footer>
+</html>

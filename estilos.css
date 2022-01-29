@@ -1,0 +1,27 @@
+body { 
+
+    background-image: url(pantalla3.jpg);
+    background-repeat: no-repeat;
+    background-position: center center; /*centrar la imagen*/
+    background-attachment: fixed; /*imagen fija en una sola posicion*/
+    background-size: cover; /*sombreado en la imagen*/
+    text-align: center;
+
+
+}
+
+h1, h4, h2, strong, footer{
+
+    color: rgb(236, 235, 126);
+    -webkit-text-stroke: 0.5px rgb(0, 174, 255);
+    font-size: 20px;
+}
+
+textarea{
+    background-color: rgba(91, 127, 235, 0.185);
+    color: rgba(239, 239, 245, 0.911);
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 15px;
+    
+}
