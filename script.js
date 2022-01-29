@@ -1,7 +1,7 @@
 
 function encriptar(){
 
-    let texto = document.getElementById("mensaje").value;
+    var texto = document.getElementById("mensaje").value;
     
     texto = normalizar(texto);
     
