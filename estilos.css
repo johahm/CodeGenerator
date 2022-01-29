@@ -1,6 +1,6 @@
 body { 
 
-    background-image: url(pantalla3.jpg);
+    background-image: url(pantalla2.jpg);
     background-repeat: no-repeat;
     background-position: center center; /*centrar la imagen*/
     background-attachment: fixed; /*imagen fija en una sola posicion*/
@@ -23,5 +23,6 @@ textarea{
     font-weight: bold;
     font-size: 15px;
     border-radius: 15px;
+
     
 }
