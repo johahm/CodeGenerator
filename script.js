@@ -12,8 +12,13 @@ function encriptar(){
     texto = texto.replaceAll('u', 'ufat');
     
     document.getElementById("resultado").value = texto;
+    alert("¡Codigo Generado!");
     
     }
+    
+        alert("Codigo Generado!", "Generador dice...", Alert.ok);
+        
+    
     
     function desencriptar(){
     
