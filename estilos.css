@@ -1,6 +1,6 @@
 body { 
 
-    background-image: url(pantalla3.jpg);
+    background: red;
     background-repeat: no-repeat;
     background-position: center center; /*centrar la imagen*/
     background-attachment: fixed; /*imagen fija en una sola posicion*/
