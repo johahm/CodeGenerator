@@ -8,7 +8,7 @@ body {
     background-attachment: fixed; /*imagen fija en una sola posicion*/
     background-size: cover; /*sombreado en la imagen*/
     text-align: center;
-
+    font-family: helvetica;
 
 }
 
