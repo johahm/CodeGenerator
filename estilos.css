@@ -14,7 +14,7 @@ body {
 
 h1, h4, h2, strong, footer{
 
-    color: rgba(241, 206, 9, 0.856);
+    color: black;
     -webkit-text-stroke: 0.5px rgb(0, 174, 255);
     font-size: 20px;
 } 
