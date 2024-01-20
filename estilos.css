@@ -43,9 +43,11 @@ font-size: 15px;border-radius: 15px; border-color: yellowgreen;
 padding-top: 8px;
     
 }
+i {
+ color: # c9c6c4;   
+}
 footer {
 padding-top: 80px;
-color: # c9c6c4;
 font-size: 20px;
 }
     
